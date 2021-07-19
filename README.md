@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Sphinm/Sphinm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Sphinm&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
+
+<br/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinm&layout=compact)
