@@ -14,7 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Sphinm&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
+ <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Sphinm&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
-<br/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinm&layout=compact)
+// <br/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinm&layout=compact&langs_count=5&theme=dark)
+
+-->
+
+<p align="center">
+ <img style="width:700px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sphinm&langs_count=5&theme=dark&custom_title=Recently%20used%20languages)](https://github.com/anuraghazra/github-readme-stats)"/>
+</p>
+
+
+
+<p align="center">
+  <img style="width:700px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sphinm&theme=chartreuse_dark" />
+</p>
+
+<p align="center">
+  <img style="width:350px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sphinm&theme=chartreuse_dark" />
+  <img style="width:350px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sphinm&theme=chartreuse_dark" />
+</p>
