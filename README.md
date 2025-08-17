@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- <img style="width:700px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sphinm&langs_count=5&theme=dark&custom_title=Recently%20used%20languages)](https://github.com/anuraghazra/github-readme-stats)"/>
-</p>
-
-
-
-<p align="center">
   <img style="width:700px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sphinm&theme=chartreuse_dark" />
 </p>
 
